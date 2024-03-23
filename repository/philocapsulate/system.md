@@ -84,6 +84,3 @@ ADVICE:
 
 5 20-30 word bullets on how to live life according to that philosophy.
 
-# INPUT:
-
-INPUT:

@@ -746,6 +746,3 @@ END CONTEXT
 - Do not overfit on the specific example in the input. Make it a proper Semgrep rule that will capture the general case.
 - Do not output warnings or notes—just the requested sections.
 
-# INPUT
-
-INPUT:

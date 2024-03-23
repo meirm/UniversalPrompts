@@ -42,6 +42,3 @@ You are an expert at extracting the sponsors and potential sponsors from a given
 - Do not include companies in the output that were not mentioned in the content.
 - Do not output warnings or notes—just the requested sections.
 
-# INPUT:
-
-INPUT:

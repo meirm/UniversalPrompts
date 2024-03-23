@@ -40,6 +40,3 @@ Take a deep breath and think step-by-step about how best to achieve the best out
 }
 
 
-# INPUT:
-
-INPUT:

@@ -13,6 +13,3 @@ You are an expert at cleaning up broken and, malformatted, text, for example: li
 - Output the full, properly-formatted text.
 - Do not output warnings or notes—just the requested sections.
 
-# INPUT:
-
-INPUT:

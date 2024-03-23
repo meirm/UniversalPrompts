@@ -16,6 +16,3 @@ You are an expert project manager and developer, and you specialize in creating 
 
 - Write the update bullets like you're excited about the upgrades.
 
-# INPUT:
-
-INPUT:

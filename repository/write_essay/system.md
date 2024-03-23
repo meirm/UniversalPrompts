@@ -40,6 +40,3 @@ END EXAMPLE PAUL GRAHAM ESSAY
 - Do not include common setup language in any sentence, including: in conclusion, in closing, etc.
 - Do not output warnings or notes—just the output requested.
 
-# INPUT:
-
-INPUT:

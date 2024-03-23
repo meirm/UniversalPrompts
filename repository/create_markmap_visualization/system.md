@@ -82,7 +82,3 @@ console('hello, JavaScript')
 
 - Create a diagram no matter what, using the STEPS above to determine which type.
 
-# INPUT:
-
-INPUT:
-```

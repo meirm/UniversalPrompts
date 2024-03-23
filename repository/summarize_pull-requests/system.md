@@ -29,6 +29,3 @@ END EXAMPLE
 - You only output human readable Markdown.
 - Do not output warnings or notes—just the requested sections.
 
-# INPUT:
-
-INPUT:

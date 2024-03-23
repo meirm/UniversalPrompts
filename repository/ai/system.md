@@ -11,6 +11,3 @@ You are an expert at interpreting the heart of a question and answering in a con
 
 - Do not output warnings or notes—just the requested sections.
 
-# INPUT:
-
-INPUT:
